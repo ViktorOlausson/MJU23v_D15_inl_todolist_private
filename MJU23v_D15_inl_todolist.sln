@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MJU23v_D15_inl_todolist", "MJU23v_D15_inl_todolist.csproj", "{AEE904F1-D556-4BA8-BDD8-043E3289A446}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MJU23v_D15_inl_todolist", "MJU23v_D15_inl_todolist.csproj", "{AEE904F1-D556-4BA8-BDD8-043E3289A446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MJU23v_D15_inl_todolistTests", "..\MJU23v_D15_inl_todolistTests\MJU23v_D15_inl_todolistTests.csproj", "{0E87D7C9-25D7-4B6E-9213-FBC23AC11B21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AEE904F1-D556-4BA8-BDD8-043E3289A446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE904F1-D556-4BA8-BDD8-043E3289A446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE904F1-D556-4BA8-BDD8-043E3289A446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E87D7C9-25D7-4B6E-9213-FBC23AC11B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E87D7C9-25D7-4B6E-9213-FBC23AC11B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E87D7C9-25D7-4B6E-9213-FBC23AC11B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E87D7C9-25D7-4B6E-9213-FBC23AC11B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
